@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual</string>
+	<string>org.sil.ukelele.keyboardlayout.bandera</string>
 	<key>CFBundleName</key>
-	<string>Cyrillic bilingual</string>
+	<string>Bandera</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_Cyrillic bilingual</key>
+	<key>KLInfo_Bandera</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual.cyrillicbilingual</string>
+    <string>org.sil.ukelele.keyboardlayout.bandera.bandera</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-UA</string>
 	</dict>
