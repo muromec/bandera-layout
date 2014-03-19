@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-03-19 at 01:47 (GMT+2)-->
 <!--Last edited by Ukelele version 2.2.8 on 2014-03-19 at 02:39 (GMT+2)-->
-<keyboard group="7" id="19795" name="Cyrillic bilingual" maxout="1">
+<keyboard group="7" id="19795" name="Bandera" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
