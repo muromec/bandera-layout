@@ -15,12 +15,8 @@ and go to language preferences.
 
 Ukrainian-cyrillic keys:
 
-- `alt-и` for і
-- `alt-й` or `alt-§` for ї
-- `alt-э` є
+Symbols and letters like: `alt-и` ('і'), `alt-й` or `alt-§` ('ї'), `alt-э` ('є'), alt-е, alt-ц is deleted.
+Now it just standart Ukrainian keyboard with UPA flag.
 
-Bonus keys:
-
-- alt-е
-- alt-ц
-
+Glory to Ukraine!
+Слава Україні!
