@@ -1,4 +1,4 @@
-Cyrillic keyboard
+Bandershtat keyboard
 =================
 
 For particular reason I don't like to look at *that* flag anymore.
@@ -10,13 +10,11 @@ added missing Ukrainian-Cyrillic letters to it.
 How to use
 ----------
 
-Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\ Layouts
-and go to language preferences.
+1. Copy **'Cyrillic bilingual.bundle'** into **'/Library/Keyboard\\ Layouts'**
+2. Go to Keyboard preferences  
+3. Click on '+' to add new input source and select 'Other' submenu
+4. Find find and choose 'Бандерівська' language from list of input sources 
+5. Feel like a hero and enjoy typing
 
-Ukrainian-cyrillic keys:
 
-Symbols and letters like: `alt-и` ('і'), `alt-й` or `alt-§` ('ї'), `alt-э` ('є'), alt-е, alt-ц is deleted.
-Now it just standart Ukrainian keyboard with UPA flag.
-
-Glory to Ukraine!
-Слава Україні!
+**Glory to Ukraine! Слава Україні!**
