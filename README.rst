@@ -10,8 +10,7 @@ added missing Ukrainian-Cyrillic letters to it.
 How to use
 ----------
 
-Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\ Layouts
-and go to language preferences.
+run ./install.sh
 
 Ukrainian-cyrillic keys:
 
