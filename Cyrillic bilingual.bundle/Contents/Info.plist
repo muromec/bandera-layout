@@ -15,5 +15,12 @@
 		<key>TISIntendedLanguage</key>
 		<string>en-UA</string>
 	</dict>
+	<key>KLInfo_Cyrillic bilingual - Phonetic</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual-phonetic</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-UA</string>
+	</dict>
 </dict>
 </plist>
