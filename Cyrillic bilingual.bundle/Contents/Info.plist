@@ -20,7 +20,7 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.cyrillicbilingual-phonetic</string>
 		<key>TISIntendedLanguage</key>
-		<string>ru-UA</string>
+		<string>en-UA</string>
 	</dict>
 </dict>
 </plist>
