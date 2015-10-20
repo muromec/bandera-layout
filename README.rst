@@ -7,7 +7,7 @@ added missing Ukrainian-Cyrillic letters to it.
 
 .. image:: screen.png
 
-UPD: Added a version of standard "Russian phonetic" keybord layout with a better flag.
+UPD: Added a version of standard "Cyrillic phonetic" keybord layout with a better flag.
 
 How to use
 ----------
