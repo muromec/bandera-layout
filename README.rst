@@ -7,10 +7,12 @@ added missing Ukrainian-Cyrillic letters to it.
 
 .. image:: screen.png
 
+UPD: Added a version of standard "Cyrillic phonetic" keybord layout with a better flag.
+
 How to use
 ----------
 
-Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\ Layouts
+Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\\ Layouts
 and go to language preferences.
 
 Ukrainian-cyrillic keys:
