@@ -2,7 +2,7 @@ Cyrillic keyboard
 =================
 
 For particular reason I don't like to look at *that* flag anymore.
-So I hacked my keyboard layout, changed it's name, flag and
+So I hacked my keyboard layout, changed its name, flag and
 added missing Ukrainian-Cyrillic letters to it.
 
 .. image:: screen.png
