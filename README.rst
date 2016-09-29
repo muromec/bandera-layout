@@ -9,11 +9,20 @@ added missing Ukrainian-Cyrillic letters to it.
 
 UPD: Added a version of standard "Cyrillic phonetic" keybord layout with a better flag.
 
+How to install
+--------------
+
+* Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\\ Layouts like this:
+
+.. code-block:: 
+
+    cd /tmp && git clone https://github.com/muromec/bandera-layout.git
+    sudo cp -r bandera-layout/Cyrillic\ bilingual.bundle /Library/Keyboard\ Layouts/
+
+* Go to language preferences, press "+" button and add "Cyrillic bilingual" layout from "English" group.
+
 How to use
 ----------
-
-Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\\ Layouts
-and go to language preferences.
 
 Ukrainian-cyrillic keys:
 
