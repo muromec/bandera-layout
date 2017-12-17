@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1.1</string>
-	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>ProjectName</key>
 	<string>Cyrillic bilingual</string>
 	<key>SourceVersion</key>
