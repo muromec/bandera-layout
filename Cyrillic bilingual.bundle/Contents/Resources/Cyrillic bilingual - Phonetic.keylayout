@@ -1,6 +1,5 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.0.43 on 2015-10-19 at 19:55 (PDT)-->
 <keyboard group="0" id="6766" maxout="1" name="Cyrillic bilingual - Phonetic">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -264,7 +263,7 @@
 			<key code="2" output="ђ"/>
 			<key code="3" output="ƒ"/>
 			<key code="4" output="ґ"/>
-			<key code="5" output="ѓ"/>
+			<key code="5" output="ґ"/>
 			<key code="6" output="џ"/>
 			<key code="7" output="≈"/>
 			<key code="8" output="©"/>
@@ -371,8 +370,8 @@
 			<key code="1" output="Ѕ"/>
 			<key code="2" output="Ђ"/>
 			<key code="3" output="∆"/>
-			<key code="4" output="Ґ"/>
-			<key code="5" output="Ѓ"/>
+			<key code="4" output="Ѓ"/>
+			<key code="5" output="Ґ"/>
 			<key code="6" output="Џ"/>
 			<key code="7" output=""/>
 			<key code="8" output="©"/>

@@ -14,7 +14,7 @@ How to install
 
 * Copy 'Cyrillic bilingual.bundle' into /Library/Keyboard\\ Layouts like this:
 
-.. code-block:: 
+.. code-block::
 
     cd /tmp && git clone https://github.com/muromec/bandera-layout.git
     sudo cp -r bandera-layout/Cyrillic\ bilingual.bundle /Library/Keyboard\ Layouts/
@@ -27,11 +27,11 @@ How to use
 Ukrainian-cyrillic keys:
 
 - `alt-и` for і
+- `alt-г` for ґ
 - `alt-й` or `alt-§` for ї
-- `alt-э` є
+- `alt-э` for є
+- `alt-е` for ё
 
 Bonus keys:
 
-- alt-е
-- alt-ц
-
+- `alt-ц`
