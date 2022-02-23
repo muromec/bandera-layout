@@ -17,7 +17,7 @@ How to install
 .. code-block::
 
     cd /tmp && git clone https://github.com/muromec/bandera-layout.git
-    sudo cp -r bandera-layout/Cyrillic\ bilingual.bundle /Library/Keyboard\ Layouts/
+    cp -r bandera-layout/Cyrillic\ bilingual.bundle ~/Library/Keyboard\ Layouts/
 
 * Go to language preferences, press "+" button and add "Cyrillic bilingual" layout from "English" group.
 
