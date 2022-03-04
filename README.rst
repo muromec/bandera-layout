@@ -9,6 +9,11 @@ added missing Ukrainian-Cyrillic letters to it.
 
 UPD: Added a version of standard "Cyrillic phonetic" keybord layout with a better flag.
 
+But anyway
+----------
+
+What would you need R***ian letters on your keyboard anyway? Just use Ukrainian keyboard and set yourself free.
+
 How to install
 --------------
 
@@ -24,14 +29,4 @@ How to install
 How to use
 ----------
 
-Ukrainian-cyrillic keys:
-
-- `alt-и` for і
-- `alt-г` for ґ
-- `alt-й` or `alt-§` for ї
-- `alt-э` for є
-- `alt-е` for ё
-
-Bonus keys:
-
-- `alt-ц`
+Don't
